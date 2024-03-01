@@ -1,0 +1,16 @@
+{
+  "name": "testing-01-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.2.2"
+  }
+}
